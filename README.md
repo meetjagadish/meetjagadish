@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jagadish! <br/><a href="https://github.com/meetjagadish">Programmer</a>, <a href="https://www.linkedin.com/in/meetjagadish/">Junior Software Developer</a>  </h1>
+<h1>Hi, I'm Jagadish! <br/><a href="https://github.com/meetjagadish">Programmer</a>, <a href="https://www.linkedin.com/meetjagadish/">Junior Software Developer</a>  </h1>
 
 <h2>📺 Software Development Projects:</h2>
 
